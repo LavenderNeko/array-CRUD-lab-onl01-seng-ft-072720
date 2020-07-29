@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = "White Mage", "Bard", "Ninja", "Astro"
+  jobs_ffxiv = "White Mage", "Bard", "Ninja", "Astro"
 end
 
 def add_element_to_end_of_array(array, element)
-  jobs << element
+  jobs_ffxiv << "Dancer"
 end
 
 def add_element_to_start_of_array(array, element)
