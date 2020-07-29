@@ -6,7 +6,7 @@ def create_an_array
   jobs_ffxiv = "White Mage", "Bard", "Ninja", "Astro"
 end
 
-def add_element_to_end_of_array(jobs_ffxiv, dancer)
+def add_element_to_end_of_array(jobs_ffxiv, )
   jobs_ffxiv << "Dancer"
 end
 
