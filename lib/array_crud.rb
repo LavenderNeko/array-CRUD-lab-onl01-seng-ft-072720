@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  jobs.push "Dancer"
+  jobs.push ("Dancer")
 end
 
 def add_element_to_start_of_array(array, element)
